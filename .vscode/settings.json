@@ -1,0 +1,7 @@
+{
+    "dataWrangler.startInEditModeForNotebookEntrypoints": true,
+    "dataWrangler.useRelativePath": true,
+    "dataWrangler.experiments.autoDetectCsvDelimiter": false,
+    "dataWrangler.experiments.fastCsvParsing": false,
+    "dataWrangler.experiments.useJupyterProposedAPI": false
+}
